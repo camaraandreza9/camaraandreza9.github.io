@@ -1,9 +1,9 @@
 body {
     margin:0;
-    font-family:arial,sans-serif;
+    font-family:Arial,sans-serif;
     background-color:rgb(176, 240, 240);
 }
 .inicio{
     display: flex;
-    height: 2vh;
+    height: 100vh;
 }
